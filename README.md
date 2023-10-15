@@ -9,10 +9,11 @@ As a result, it does not contain any default WordPress plugins or themes. This m
 
 Finally: this package is built in such a way where the database will not be transferable. This might be changed in the future.
 
-# Defaults:
+# Defaults
 - MariaDB and WordPress containers set to `latest`
 - `wp-content` folder containing empty `plugins` and `themes` folders
 - `uploads.ini` file that sets the upload limit to 500mb
+- Website port set to `8081`
 
 # Getting Started
 1. Download this repo as a ZIP
