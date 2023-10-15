@@ -14,6 +14,7 @@ Finally: this package is built in such a way where the database will not be tran
 - `wp-content` folder containing empty `plugins` and `themes` folders
 - `uploads.ini` file that sets the upload limit to 500mb
 - Website port set to `8081`
+- Containers start up automatically on reboot
 
 # Getting Started
 1. Download this repo as a ZIP
